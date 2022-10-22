@@ -1,2 +1,0 @@
-(this["webpackJsonpchatbot-tutorial"]=this["webpackJsonpchatbot-tutorial"]||[]).push([[0],{83:function(t,a,o){"use strict";o.r(a),o.d(a,"appUrl",(function(){return p}));var p="http://127.0.0.1:4000"}}]);
-//# sourceMappingURL=0.8d722f85.chunk.js.map
