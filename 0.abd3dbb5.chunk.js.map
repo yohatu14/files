@@ -1,1 +1,0 @@
-{"version":3,"sources":["configuration/configapi.js"],"names":["appUrl"],"mappings":"2HAAA,kDAAMA,EAAS","file":"static/js/0.abd3dbb5.chunk.js","sourcesContent":["const appUrl = 'http://127.0.0.1:4000';\n\nexport { appUrl };"],"sourceRoot":""}
